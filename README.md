@@ -52,5 +52,10 @@ Open `http://localhost:3000`.
 - `/analytics/data` – JSON analytics summary
 - `/api/leads` – Lead capture data (JSON)
 - `/content/api/feed` – Content feed (JSON)
+
+## Tests
+
+```bash
+npm run test
 npm run test:e2e
 ```
